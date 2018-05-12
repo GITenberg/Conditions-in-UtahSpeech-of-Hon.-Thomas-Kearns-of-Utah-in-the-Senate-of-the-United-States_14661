@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5617
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Kearns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14661#Conditions-in-UtahSpeech-of-Hon.-Thomas-Kearns-of-Utah-in-the-Senate-of-the-United-States
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
